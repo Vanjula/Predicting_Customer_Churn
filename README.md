@@ -1,1 +1,1 @@
-# Predicting_Customer_Churn
+# Predicting Customer Churn in a Telecommunications Company
